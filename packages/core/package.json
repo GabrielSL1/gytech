@@ -1,0 +1,17 @@
+
+{
+    "name": "@gyntech/core",
+    "scripts": {
+      "build": "tsup src/index.ts --dts --minify"
+    },
+    "tsup": {
+      "dts": {
+        "resolve": true,
+        "compilerOptions": {
+          "skipLibCheck": true,
+          "strict": false 
+        }
+      },
+      "sourcemap": true 
+    }
+  }

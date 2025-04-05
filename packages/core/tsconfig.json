@@ -1,0 +1,9 @@
+{
+    "extends": "../typescript-config/base.json",
+    "compilerOptions": {
+        "paths": {
+          "@/*": ["./src/*"],
+          "@gyntech/core": ["../../packages/core/dist"]
+        }
+    }
+}
