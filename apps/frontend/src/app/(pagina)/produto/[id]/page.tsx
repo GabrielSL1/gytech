@@ -14,5 +14,10 @@ export default function PaginaProduto(props: any) {
     }, [params.id]) 
 
     
-    return produto ? <div>{produto?.nome}</div> : <div>Produto não encontrado</div>
+    return produto? 
+       <>
+           <div className="flex flex-col gap-20"></div>
+           <div>{produto?.nome}</div>
+       </>
+     : <div>Produto não encontrado</div>
 }

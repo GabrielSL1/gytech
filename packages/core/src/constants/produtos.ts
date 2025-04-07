@@ -15,11 +15,11 @@ const produtos: Produto[] = [
         especificacoes: {
             destaque: "Tela Super Retina XDR de 6,1 polegadas e chip A15 Bionic."
         },
-        precobase: 6.999,
-        precopromocional: 6.499,
-        menorpreco: 6.499,
-        maiorpreco: 6.999,
-        precomedio: 6.749,
+        precoBase: 6.999,
+        precoPromocional: 6.499,
+        menorPreco: 6.499,
+        maiorPreco: 6.999,
+        precoMedio: 6.749,
     },
     {
         id: 2,
@@ -35,11 +35,11 @@ const produtos: Produto[] = [
         especificacoes: {
             destaque: "Processador Snapdragon 8 Gen 2 e câmera de 50 MP."
         },
-        precobase: 5.999,
-        precopromocional: 5.499,
-        menorpreco: 5.499,
-        maiorpreco: 5.999,
-        precomedio: 5.749,
+        precoBase: 5.999,
+        precoPromocional: 5.499,
+        menorPreco: 5.499,
+        maiorPreco: 5.999,
+        precoMedio: 5.749,
     },
     {
         id: 3,
@@ -55,11 +55,11 @@ const produtos: Produto[] = [
         especificacoes: {
             destaque: "Cancelamento de ruído líder do mercado e bateria de até 30 horas."
         },
-        precobase: 2.499,
-        precopromocional: 2.299,
-        menorpreco: 2.299,
-        maiorpreco: 2.499,
-        precomedio: 2.399,
+        precoBase: 2.499,
+        precoPromocional: 2.299,
+        menorPreco: 2.299,
+        maiorPreco: 2.499,
+        precoMedio: 2.399,
     },
     {
         id: 4,
@@ -75,11 +75,11 @@ const produtos: Produto[] = [
         especificacoes: {
             destaque: "Tela InfinityEdge 4K e design ultrafino."
         },
-        precobase: 10.999,
-        precopromocional: 9.999,
-        menorpreco: 9.999,
-        maiorpreco: 10.999,
-        precomedio: 10.499,
+        precoBase: 10.999,
+        precoPromocional: 9.999,
+        menorPreco: 9.999,
+        maiorPreco: 10.999,
+        precoMedio: 10.499,
     },
     {
         id: 5,
@@ -95,11 +95,11 @@ const produtos: Produto[] = [
         especificacoes: {
             destaque: "Sensor de alta precisão e design ergonômico."
         },
-        precobase: 250,
-        precopromocional: 190,
-        menorpreco: 190,
-        maiorpreco: 300,
-        precomedio: 250,
+        precoBase: 250,
+        precoPromocional: 190,
+        menorPreco: 190,
+        maiorPreco: 300,
+        precoMedio: 250,
     },
     {
         id: 6,
@@ -115,11 +115,11 @@ const produtos: Produto[] = [
         especificacoes: {
             destaque: "Suporte a jogos em 4K, SSD ultrarrápido e controle DualSense."
         },
-        precobase: 4.999,
-        precopromocional: 4.499,
-        menorpreco: 4.499,
-        maiorpreco: 4.999,
-        precomedio: 4.749,
+        precoBase: 4.999,
+        precoPromocional: 4.499,
+        menorPreco: 4.499,
+        maiorPreco: 4.999,
+        precoMedio: 4.749,
     },
     {
         id: 7,
@@ -135,11 +135,11 @@ const produtos: Produto[] = [
         especificacoes: {
             destaque: "Chip M2, tela Retina de 13,6 polegadas e bateria de longa duração."
         },
-        precobase: 12.999,
-        precopromocional: 11.999,
-        menorpreco: 11.999,
-        maiorpreco: 12.999,
-        precomedio: 12.499,
+        precoBase: 12.999,
+        precoPromocional: 11.999,
+        menorPreco: 11.999,
+        maiorPreco: 12.999,
+        precoMedio: 12.499,
     },
     {
         id: 8,
@@ -155,11 +155,11 @@ const produtos: Produto[] = [
         especificacoes: {
             destaque: "Sensor óptico Focus Pro 30K DPI e design ultraleve de 63g."
         },
-        precobase: 899,
-        precopromocional: 799,
-        menorpreco: 799,
-        maiorpreco: 899,
-        precomedio: 849,
+        precoBase: 899,
+        precoPromocional: 799,
+        menorPreco: 799,
+        maiorPreco: 899,
+        precoMedio: 849,
     },
     {
         id: 9,
@@ -175,11 +175,11 @@ const produtos: Produto[] = [
         especificacoes: {
             destaque: "Tela QHD curvada, 240Hz e suporte a G-Sync/FreeSync."
         },
-        precobase: 3.499,
-        precopromocional: 3.199,
-        menorpreco: 3.199,
-        maiorpreco: 3.499,
-        precomedio: 3.349,
+        precoBase: 3.499,
+        precoPromocional: 3.199,
+        menorPreco: 3.199,
+        maiorPreco: 3.499,
+        precoMedio: 3.349,
     },
     {
         id: 10,
@@ -195,11 +195,11 @@ const produtos: Produto[] = [
         especificacoes: {
             destaque: "Bateria de até 300 horas e som surround virtual DTS."
         },
-        precobase: 1.599,
-        precopromocional: 1.499,
-        menorpreco: 1.499,
-        maiorpreco: 1.599,
-        precomedio: 1.549,
+        precoBase: 1.599,
+        precoPromocional: 1.499,
+        menorPreco: 1.499,
+        maiorPreco: 1.599,
+        precoMedio: 1.549,
     }
 ];
 

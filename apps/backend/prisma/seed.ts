@@ -1,5 +1,5 @@
 import { PrismaClient } from '@prisma/client';
-import { produtos } from '../@gyntech/core';
+import { produtos } from '@gyntech/core';
 
 const prisma = new PrismaClient();
 
